@@ -1,0 +1,8 @@
+{
+  "name": "BazaarNotifier",
+  "creator": "DinosRUS",
+  "version": "1.0.0",
+  "description": "Tracks bazaar sell offer and buy order movements on Hypixel Skyblock",
+  "entry": "index.js",
+  "requires": ["Vigilance"]
+}
