@@ -11,7 +11,7 @@ const DEBUG = true;
 const GITHUB_URL = "https://raw.githubusercontent.com/DinosAreUs/marketforbazaartracker/main/FreeTrialMarketTracker.js";
 
 // Local file path
-const LOCAL_FILE = "./config/ChatTriggers/modules/DinosBazaarNotifier/MarketTrackerDownloaded.js";
+const LOCAL_FILE = "./config/ChatTriggers/modules/BazaarNotifier-1/MarketTrackerDownloaded.js";
 
 /**
  * Debug logging function
